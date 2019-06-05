@@ -1,5 +1,5 @@
 {
-    "name": "mgp25/instagram-api",
+    "name": "sni10/instagram-api",
     "description": "Instagram's private API for PHP",
     "license": [
         "RPL-1.5",
@@ -12,20 +12,15 @@
         "PHP"
     ],
     "support": {
-        "issues": "https://github.com/mgp25/Instagram-API/issues",
-        "wiki": "https://github.com/mgp25/Instagram-API/wiki",
-        "source": "https://github.com/mgp25/Instagram-API/"
+        "issues": "https://github.com/sni10/Instagram-API/issues",
+        "wiki": "https://github.com/sni10/Instagram-API/wiki",
+        "source": "https://github.com/sni10/Instagram-API/"
     },
     "authors": [
         {
-            "name": "mgp25",
-            "email": "me@mgp25.com",
+            "name": "sni10",
+            "email": "me@me.com",
             "role": "Founder"
-        },
-        {
-            "name": "SteveJobzniak",
-            "homepage": "https://github.com/SteveJobzniak",
-            "role": "Developer"
         }
     ],
     "autoload": {
