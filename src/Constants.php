@@ -82,7 +82,7 @@ class Constants
     const FEED_TV = 6;
 
     const CHALLENGE_CHOICE_EMAIL = 0;
-    const CHALLENGE_CHOICE_SMS = 1;
+    const CHALLENGE_CHOICE_SMS = 1; //FUCK YOU MOTHER
     
     // General Constants.
     const SRC_DIR = __DIR__; // Absolute path to the "src" folder.
