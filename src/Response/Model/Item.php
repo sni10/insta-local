@@ -664,7 +664,7 @@ class Item extends AutoPropertyMapper
 {
     const PHOTO = 1;
     const VIDEO = 2;
-    const CAROUSEL = 8;
+	const ALBUM = 8; // CAROUSEL
 
     const JSON_PROPERTY_MAP = [
         /*
